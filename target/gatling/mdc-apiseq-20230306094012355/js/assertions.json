@@ -1,0 +1,10 @@
+{
+  "simulation": "SapccIHM.MDC_APISeq",
+  "simulationId": "mdc-apiseq",
+  "start": 1678095612355,
+  "description": "1",
+  "scenarios": ["Components", "ProductIds", "API_PAGES"],
+  "assertions": [
+
+  ]
+}
